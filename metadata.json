@@ -1,0 +1,6 @@
+{
+  "name": "FormulPro Détergents",
+  "description": "Application web professionnelle de formulation et de production de détergents maison et automobiles avec gestion des stocks, calculateur 1-1000 kg et base de données.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

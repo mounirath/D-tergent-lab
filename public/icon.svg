@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0284c7;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0369a1;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gradLiquid" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#38bdf8;stop-opacity:0.9" />
+      <stop offset="100%" style="stop-color:#0284c7;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="108" fill="url(#grad1)"/>
+  <!-- Beaker / Flask Graphic -->
+  <path d="M216 110 L216 170 L140 330 C125 362 148 400 184 400 L328 400 C364 400 387 362 372 330 L296 170 L296 110" 
+        fill="none" stroke="#ffffff" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Lip of flask -->
+  <line x1="200" y1="110" x2="312" y2="110" stroke="#ffffff" stroke-width="24" stroke-linecap="round"/>
+  <!-- Liquid -->
+  <path d="M168 335 C200 320 240 345 280 330 C310 320 330 330 344 335 L332 360 C322 380 305 385 280 385 L232 385 C207 385 190 380 180 360 Z" 
+        fill="url(#gradLiquid)" opacity="0.85"/>
+  <!-- Bubbles -->
+  <circle cx="230" cy="270" r="14" fill="#ffffff" opacity="0.75"/>
+  <circle cx="285" cy="295" r="10" fill="#ffffff" opacity="0.8"/>
+  <circle cx="250" cy="340" r="18" fill="#ffffff" opacity="0.6"/>
+  <circle cx="215" cy="360" r="8" fill="#ffffff" opacity="0.7"/>
+</svg>
