@@ -1,0 +1,720 @@
+{
+  "formulas": [
+    {
+      "id": 1,
+      "name_ar": "غسول الأواني المركّز",
+      "name_fr": "Détergent pour vaisselle concentré",
+      "category": "منظفات منزلية",
+      "description": "يمنح رغوة كثيفة وقدرة عالية على إزالة الدهون والشحوم الصعبة مع المحافظة على رطوبة اليدين.",
+      "preparation_steps": "يُذاب SLES في 80% من كمية الماء حتى الذوبان التام. يُضاف حمض السلفونيك ويُحايد بالصودا الكاوية حتى pH = 7. يُضاف الكمبرلان والبيتاين مع التحريك، ثم يُحل الملح في المتبقي من الماء ويُضاف بالتدريج للضبط مع الحافظ والعطر واللون.",
+      "safety_warnings": "ارتدِ القفازات أثناء التعامل مع الصودا الكاوية وحمض السلفونيك لتجنب الحروق الكيميائية.",
+      "ingredients": [
+        { "name_ar": "سلفات لوريث الصوديوم", "trade_name": "SLES / Texapon", "percentage": 10.0 },
+        { "name_ar": "حمض السلفونيك", "trade_name": "LABSA", "percentage": 5.0 },
+        { "name_ar": "هيدروكسيد الصوديوم (صودا كاوية)", "trade_name": "NaOH", "percentage": 0.65 },
+        { "name_ar": "كوكاميد دي إيثانول أمين", "trade_name": "Cocamide DEA / Comperlan", "percentage": 2.0 },
+        { "name_ar": "كوكاميد بروبيل بيتين", "trade_name": "Betaine", "percentage": 1.5 },
+        { "name_ar": "ملح الطعام", "trade_name": "NaCl", "percentage": 1.5 },
+        { "name_ar": "مادة حافظة", "trade_name": "DMDM Hydantoin", "percentage": 0.15 },
+        { "name_ar": "عطر ليمون زيتوني", "trade_name": "Parfum Citron", "percentage": 0.3 },
+        { "name_ar": "ملون أصفر", "trade_name": "Colorant", "percentage": 0.05 },
+        { "name_ar": "ماء مقطر / منقى", "trade_name": "Eau épurée", "percentage": 78.85 }
+      ]
+    },
+    {
+      "id": 2,
+      "name_ar": "منظف الزجاج والمرايا",
+      "name_fr": "Nettoyant vitres et miroirs",
+      "category": "منظفات منزلية",
+      "description": "منظف سريع التبخر لا يترك أي أثر أو خطوط على الزجاج مع لمعان الفلوريسين.",
+      "preparation_steps": "يُمزج الكحول مع ماء الردياتير/الماء المقطر، يُضاف إيثانول أمين أو الأمونيا ثم النونيل فينول أو IPA، ثم الملون الأزرق مع التحريك الخفيف.",
+      "safety_warnings": "يحظر استنشاق أبخرة الأمونيا بشكل مباشر، ويُحفظ بعيداً عن مصادر الحرارة والشرر.",
+      "ingredients": [
+        { "name_ar": "كحول إيزوبروبيل", "trade_name": "IPA / Isopropanol", "percentage": 8.0 },
+        { "name_ar": "إيثيلين جليكول مونو بوتيل إيثر", "trade_name": "Butyl Glycol", "percentage": 2.0 },
+        { "name_ar": "محلول الأمونيا (25%)", "trade_name": "Ammonia", "percentage": 0.3 },
+        { "name_ar": "نونيل فينول إيثوكسيلات", "trade_name": "NP-9", "percentage": 0.1 },
+        { "name_ar": "ملون أزرق زاهي", "trade_name": "Bleu brillant", "percentage": 0.01 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau déminéralisée", "percentage": 89.59 }
+      ]
+    },
+    {
+      "id": 3,
+      "name_ar": "منظف ومطهر الأرضيات (نوع ديتول)",
+      "name_fr": "Désinfectant sols type Dettol",
+      "category": "مطهرات ومنظفات حمام",
+      "description": "مستحلب معقم يتحول للون الأبيض عند خلطه بالماء ذو فاعلية عالية ضد البكتيريا والجراثيم.",
+      "preparation_steps": "يُذاب الصابون الزيتي أو زيت الصنوبر في الإيثانول، يُضاف الكلوروزيلينول (PCMX) حتى الذوبان التام، ثم يُضاف المزيج تدريجياً للماء للحصول على مستحلب ثابت.",
+      "safety_warnings": "تجنب ملامسة العينين أو البشرة مباشرة أثناء التحضير المركّز.",
+      "ingredients": [
+        { "name_ar": "كلوروزيلينول", "trade_name": "PCMX", "percentage": 4.8 },
+        { "name_ar": "زيت الصنوبر", "trade_name": "Pine Oil", "percentage": 9.0 },
+        { "name_ar": "كحول إيثيلي / إيزوبروبيل", "trade_name": "Ethanol / IPA", "percentage": 12.0 },
+        { "name_ar": "صابون خروع زيتي (خلاصة)", "trade_name": "Castor Oil Soap", "percentage": 6.0 },
+        { "name_ar": "زيت الخروع المنهدرج", "trade_name": "Cremophor CO-40", "percentage": 2.0 },
+        { "name_ar": "كراميل ملون", "trade_name": "Couleur Caramel", "percentage": 0.2 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau", "percentage": 66.0 }
+      ]
+    },
+    {
+      "id": 4,
+      "name_ar": "منظف الحمام الشامل وإزالة الكلس",
+      "name_fr": "Nettoyant anticalcaire sanitaires",
+      "category": "مطهرات ومنظفات حمام",
+      "description": "ينظف التكلسات، ترسبات الصابون والصدأ عن السيراميك والصنبور بفاعلية حمضية عالية.",
+      "preparation_steps": "يُخلط الماء مع حمض الفوسفوريك وحمض السيتريك، يُضاف NP-9 للترطيب وعطر الفواكه/النعناع الحامضي.",
+      "safety_warnings": "مادة حامضية حارقة! ارتداء قفازات مطاطية واقية ونظارات سلامة أثناء الخلط والإنتاج.",
+      "ingredients": [
+        { "name_ar": "حمض الفوسفوريك (85%)", "trade_name": "Acide Phosphorique", "percentage": 8.0 },
+        { "name_ar": "حمض الستريك (ملح الليمون)", "trade_name": "Acide Citrique", "percentage": 3.0 },
+        { "name_ar": "نونيل فينول إيثوكسيلات", "trade_name": "NP-9", "percentage": 1.5 },
+        { "name_ar": "مانع تأكل واسترس", "trade_name": "Corrosion Inhibitor", "percentage": 0.2 },
+        { "name_ar": "عطر نعناع/حمضيات", "trade_name": "Parfum Menthe", "percentage": 0.3 },
+        { "name_ar": "ملون وردي/أحمر", "trade_name": "Colorant", "percentage": 0.02 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 86.98 }
+      ]
+    },
+    {
+      "id": 5,
+      "name_ar": "جل منظف ومطهر الأسطح (عملاق اخضر)",
+      "name_fr": "Gel nettoyant désinfectant pin",
+      "category": "مطهرات ومنظفات حمام",
+      "description": "جل كثيف بمعطر الصنوبر لتنظيف وتطهير الأرضيات والحمامات مع لمعان يدوم طويلاً.",
+      "preparation_steps": "يُصَب زيت الصنوبر وSLES والكمبرلان ويُمزج جيداً، يُضاف الماء بالتدريج شديد لمنع انفصال الجل، ثم يُضبط القوام والمظهر الزجاجي للجل.",
+      "safety_warnings": "يحفظ بعيداً عن أيدي الأطفال وفي أماكن جافة ومظللة.",
+      "ingredients": [
+        { "name_ar": "زيت صنوبر طبيعي", "trade_name": "Pine Oil 85%", "percentage": 15.0 },
+        { "name_ar": "سلفات لوريث الصوديوم", "trade_name": "SLES", "percentage": 12.0 },
+        { "name_ar": "كوكاميد دي إيثانول أمين", "trade_name": "Comperlan", "percentage": 3.0 },
+        { "name_ar": "ثنائي هيدروكسيد الصوديوم / صابون شحمي", "trade_name": "Soap base", "percentage": 2.0 },
+        { "name_ar": "ملون أخضر كلوفيل", "trade_name": "Vert Chlorophylle", "percentage": 0.05 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 67.95 }
+      ]
+    },
+    {
+      "id": 6,
+      "name_ar": "شامبو السيارات فائق الرغوة (Hi-Foam)",
+      "name_fr": "Shampooing auto haute mousse",
+      "category": "العناية بالسيارات",
+      "description": "ينتج رغوة كثيفة متماسكة تلتصق بجسم السيارة لفك التكتلات الطينية والأوساخ دون إزالة الشمع.",
+      "preparation_steps": "يُحضر محلول SLES وLABSA ويُعادل حتى pH 7.2. يُضاف البيتاين وبوتيل جليكول للرغوة واللمعان ثم الملح للزوجة.",
+      "safety_warnings": "تأكد من التعادل التام للأس الهيدروجيني pH لحماية طلاء السيارات ولاكيه الهيكل.",
+      "ingredients": [
+        { "name_ar": "سلفات لوريث الصوديوم", "trade_name": "SLES", "percentage": 14.0 },
+        { "name_ar": "حمض السلفونيك", "trade_name": "LABSA", "percentage": 5.0 },
+        { "name_ar": "هيدروكسيد الصوديوم", "trade_name": "NaOH", "percentage": 0.65 },
+        { "name_ar": "كوكاميد بروبيل بيتين", "trade_name": "Betaine", "percentage": 2.5 },
+        { "name_ar": "بوتيل جليكول", "trade_name": "Butyl Glycol", "percentage": 1.5 },
+        { "name_ar": "جليسرين", "trade_name": "Glycerin", "percentage": 1.0 },
+        { "name_ar": "حافظ وعطر وفلوريسين", "trade_name": "Additifs", "percentage": 0.5 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 74.85 }
+      ]
+    },
+    {
+      "id": 7,
+      "name_ar": "ملمع ومجدد إطارات السيارات",
+      "name_fr": "Brillant à pneus (Tyre Dresser)",
+      "category": "العناية بالسيارات",
+      "description": "يعطي لوناً أسود عميقاً ومظهراً رطباً حافلاً باللمعان للكاوتشوك لحمايته من التشهيب والتشقق.",
+      "preparation_steps": "يُمزج مستحلب السيليكون مع الجليسرين والماء، ويُخلط خلطاً متجانساً بسرعة متوسطة.",
+      "safety_warnings": "تجنب رش الملمع على أقراص الفرامل (الفحمات) لتجنب انزلاقها أثناء الفرملة.",
+      "ingredients": [
+        { "name_ar": "مستحلب سيليكون 60%", "trade_name": "Silicone Emulsion E1045", "percentage": 20.0 },
+        { "name_ar": "جليسرين نباتي", "trade_name": "Glycerin", "percentage": 15.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 5.0 },
+        { "name_ar": "مادة حافظة", "trade_name": "Preservative", "percentage": 0.1 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau", "percentage": 59.9 }
+      ]
+    },
+    {
+      "id": 8,
+      "name_ar": "ملمع طابلو وسالون السيارات (سائل)",
+      "name_fr": "Rénovateur tableau de bord",
+      "category": "العناية بالسيارات",
+      "description": "حماية وملمع للبلاستيك والجلد الداخلي يمنع تجمع الغبار ويعطي رائحة فواحة.",
+      "preparation_steps": "يخلط زيت السيليكون Fluid 350 مع NP-9 كعامل استحلاب في كمية كم القليل من الماء، ثم يضاف باقي الماء والعطر.",
+      "safety_warnings": "لا يُرش على دواسات القيادة أو مقود السيارة لمنع الانزلاق.",
+      "ingredients": [
+        { "name_ar": "زيت سيليكون 350", "trade_name": "Silicone Oil 350 cst", "percentage": 10.0 },
+        { "name_ar": "نونيل فينول إيثوكسيلات", "trade_name": "NP-9", "percentage": 2.0 },
+        { "name_ar": "عطر فرنسي زيتون (خوخ/فانيلا)", "trade_name": "Parfum Auto", "percentage": 0.5 },
+        { "name_ar": "مادة حافظة", "trade_name": "DMDMH", "percentage": 0.1 },
+        { "name_ar": "ماء منقى", "trade_name": "Eau", "percentage": 87.4 }
+      ]
+    },
+    {
+      "id": 9,
+      "name_ar": "منظف ومزيل دهون المحركات (ديكابون)",
+      "name_fr": "Dégraissant moteur et mécanique",
+      "category": "العناية بالسيارات",
+      "description": "تركيبة قلوية قوية تذيب زيوت المحركات والشحوم المتراكمة بسرعة فائقة.",
+      "preparation_steps": "تذاب هيدروكسيد البوتاسيوم/الصوديوم في الماء، يضاف هيبوكلوريت/ميتا سيليكات الصوديوم وبوتيل جليكول والكتالون.",
+      "safety_warnings": "مادة شديدة القلوية والحرق! يُمنع لمسها للجلد أو رشها على الألمنيوم غير المطلي لفترات طويلة.",
+      "ingredients": [
+        { "name_ar": "ميتا سيليكات الصوديوم", "trade_name": "Sodium Metasilicate", "percentage": 5.0 },
+        { "name_ar": "هيدروكسيد البوتاسيوم", "trade_name": "KOH (Potasse)", "percentage": 3.0 },
+        { "name_ar": "بوتيل جليكول", "trade_name": "Butyl Glycol", "percentage": 6.0 },
+        { "name_ar": "نونيل فينول إيثوكسيلات", "trade_name": "NP-9", "percentage": 4.0 },
+        { "name_ar": "ثنائي إيثانول أمين", "trade_name": "DEA", "percentage": 1.0 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 81.0 }
+      ]
+    },
+    {
+      "id": 10,
+      "name_ar": "سائل غسيل الزجاج الأمامي (ماء اللقلاص)",
+      "name_fr": "Lave-glace anti-démoustique",
+      "category": "العناية بالسيارات",
+      "description": "يقضي على الحشرات والزيوت الملتصقة بالزجاج مع حماية المجموعات المطاطية ومواسير الضخ من التجمد.",
+      "preparation_steps": "خلط الإيثانول/الميثانول مع الماء المقطر، إضافة الكمبرلان أو SLES بنسبة بسيطة جداً والملون والعطر.",
+      "safety_warnings": "في حالة استخدام الميثانول يجب وضع علامة تحذيرية لأنه مادة سامة بالبلع.",
+      "ingredients": [
+        { "name_ar": "إيثانول أو إيزوبروبانول", "trade_name": "Ethanol / IPA", "percentage": 10.0 },
+        { "name_ar": "مونو إيثيلين جليكول", "trade_name": "MEG", "percentage": 2.0 },
+        { "name_ar": "سلفات لوريث الصوديوم", "trade_name": "SLES", "percentage": 0.2 },
+        { "name_ar": "عطر ليمون مائي", "trade_name": "Parfum Hydrosoluble", "percentage": 0.1 },
+        { "name_ar": "ملون أزرق/أخضر", "trade_name": "Colorant", "percentage": 0.01 },
+        { "name_ar": "ماء مقطر (خالي من الأملاح)", "trade_name": "Eau déminéralisée", "percentage": 87.69 }
+      ]
+    },
+    {
+      "id": 11,
+      "name_ar": "سائل غسيل الملابس التلقائي (جل ايلس)",
+      "name_fr": "Lessive liquide Gel pour machine",
+      "category": "العناية بالأنسجة",
+      "description": "بديل ممتاز للمسحوق، يذوب بسرعة ولا يترك رواسب بيضاء على الأقمشة الملونة والسوداء.",
+      "preparation_steps": "إذابة SLES وحمض السلفونيك والمعادلة بالصودا الكاوية للوصول لـ pH 8. إدخال الإنزيمات والملمعات البصرية والعطر والملون.",
+      "safety_warnings": "إضافة الإنزيمات يجب أن تكون بعد تبريد المزيج تحت 40 درجة مئوية لعدم إتلافها.",
+      "ingredients": [
+        { "name_ar": "سلفات لوريث الصوديوم", "trade_name": "SLES", "percentage": 12.0 },
+        { "name_ar": "حمض السلفونيك", "trade_name": "LABSA", "percentage": 6.0 },
+        { "name_ar": "هيدروكسيد الصوديوم", "trade_name": "NaOH", "percentage": 0.8 },
+        { "name_ar": "نونيل فينول", "trade_name": "NP-9", "percentage": 2.0 },
+        { "name_ar": "ملمع بصري (زاهي)", "trade_name": "Optical Brightener CBS-X", "percentage": 0.1 },
+        { "name_ar": "إنزيمات ثلاثية (بروتياز/أملاز)", "trade_name": "Enzymes", "percentage": 0.5 },
+        { "name_ar": "عطر كبسولات طويل الأمد", "trade_name": "Microencapsulated Parfum", "percentage": 0.5 },
+        { "name_ar": "مادة حافظة وملون", "trade_name": "Additifs", "percentage": 0.2 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 77.9 }
+      ]
+    },
+    {
+      "id": 12,
+      "name_ar": "منعم ومعطر الملابس (ملين كاندور/سوفلان)",
+      "name_fr": "Adoucissant textile (Soupline)",
+      "category": "العناية بالأنسجة",
+      "description": "يمنح الأقمشة ملمساً مخملياً ناعماً ويقلل الشحنات الكهربائية مع رائحة انتعاش يدوم طويلاً.",
+      "preparation_steps": "تسخين الماء لـ 60 مئوية وإضافة مادة الكواش المخصصة (Esterquat) بالتدريج تحت تحريك سريع حتى التكتل والتجانس، ثم تبريده وإضافة العطر والحافظ.",
+      "safety_warnings": "لا تخلط المنعم مباشرة مع مواد غسيل أنيونية لتجنب إبطال مفعوله.",
+      "ingredients": [
+        { "name_ar": "استركوات (مركب كاتيوني)", "trade_name": "Esterquat EQ75", "percentage": 5.0 },
+        { "name_ar": "كحولات دهنية / مثبت", "trade_name": "Cetyl Alcohol", "percentage": 0.5 },
+        { "name_ar": "كلوريد الكالسيوم (معدل لزوجة)", "trade_name": "CaCl2", "percentage": 0.1 },
+        { "name_ar": "عطر زيت زاهي (زهري/نسيم)", "trade_name": "Parfum Soupline", "percentage": 0.8 },
+        { "name_ar": "مادة حافظة", "trade_name": "DMDMH", "percentage": 0.1 },
+        { "name_ar": "ملون أزرق أو وردي", "trade_name": "Colorant", "percentage": 0.02 },
+        { "name_ar": "ماء مقطر سخن", "trade_name": "Eau chaude", "percentage": 93.48 }
+      ]
+    },
+    {
+      "id": 13,
+      "name_ar": "شامبو الملابس السوداء والعبايات",
+      "name_fr": "Lessive spéciale noir & abaya",
+      "category": "العناية بالأنسجة",
+      "description": "حافظ على درجة اللون الأسود ومنع بهتانه مع إعطاء نعومة ولزوجة خفيفة.",
+      "preparation_steps": "خلط SLES مع المكونات اللطيفة وتعديل الـ pH ليكون محايداً تماماً (7)، يضاف مثبت اللون والعطر الخاص.",
+      "safety_warnings": "تجنب استخدام المبيضات أو المواد القلوية الشديدة في هذه التركيبة.",
+      "ingredients": [
+        { "name_ar": "سلفات لوريث الصوديوم", "trade_name": "SLES", "percentage": 9.0 },
+        { "name_ar": "كوكاميد بروبيل بيتين", "trade_name": "Betaine", "percentage": 3.0 },
+        { "name_ar": "أكسيد الأمين", "trade_name": "Amine Oxide", "percentage": 1.5 },
+        { "name_ar": "مادة مانعة لبهتان الألوان", "trade_name": "Dye Transfer Inhibitor", "percentage": 0.3 },
+        { "name_ar": "عطر العود أو المسك", "trade_name": "Parfum Oud/Musc", "percentage": 0.4 },
+        { "name_ar": "ملح الطعام ومادة حافظة", "trade_name": "NaCl & Preservative", "percentage": 1.2 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 84.6 }
+      ]
+    },
+    {
+      "id": 14,
+      "name_ar": "مزيل البقع الصعبة للأقمشة (فانيش)",
+      "name_fr": "Détachant textiles oxygéné",
+      "category": "العناية بالأنسجة",
+      "description": "سائل يعتمد على الأكسجين النشط لإزالة بقع الحبر، الدم، القهوة، والزيوت بدون تأثر الألوان.",
+      "preparation_steps": "يُمزج الماء المقطر مع بيروكسيد الهيدروجين بحذر، ثم يضاف NP-9 وحمض الفوسفوريك لثبات الأكسجين.",
+      "safety_warnings": "ماء الأكسجين مادة مؤكسدة، يجب استخدام أوعية بلاستيكية واقية فقط وتفادي المعادن.",
+      "ingredients": [
+        { "name_ar": "بيروكسيد الهيدروجين (50%)", "trade_name": "Eau Oxygénée 50%", "percentage": 10.0 },
+        { "name_ar": "كحول دهني إيثوكسيلات", "trade_name": "C12-15 Alcohol Ethoxylate", "percentage": 3.0 },
+        { "name_ar": "حمض الفوسفوريك (كمثبت)", "trade_name": "Phosphoric Acid", "percentage": 0.1 },
+        { "name_ar": "مثبت أكسجين (EDTMP)", "trade_name": "Stabilizer", "percentage": 0.2 },
+        { "name_ar": "عطر ورد مائي", "trade_name": "Parfum", "percentage": 0.2 },
+        { "name_ar": "ماء مقطر خالي المعادن", "trade_name": "Eau déminéralisée", "percentage": 86.5 }
+      ]
+    },
+    {
+      "id": 15,
+      "name_ar": "معطر وملمع الغسيل والمفارش",
+      "name_fr": "Linge & Textile Spray Parfum",
+      "category": "العناية بالأنسجة",
+      "description": "بخاخ معطر خفيف ورشاش للستائر والمفارش والملابس المنسوجة يمنح رائحة تدوم أياماً.",
+      "preparation_steps": "خفق العطر مع التوين 20 أو NP-9 والإيثانول حتى يصفى المحلول، ثم يصب على الماء مع التحريك المستمر.",
+      "safety_warnings": "قابلة للإشتعال قبل التمديد الكامل بالماء، ابقها بعيدة عن النيران.",
+      "ingredients": [
+        { "name_ar": "كحول إيثيلي 96%", "trade_name": "Ethanol 96", "percentage": 15.0 },
+        { "name_ar": "بولي سوربات 20 / توين 20", "trade_name": "Polysorbate-20 / Tween 20", "percentage": 2.5 },
+        { "name_ar": "زيت عطري فرنسي ثقيل", "trade_name": "Huile parfumée", "percentage": 1.5 },
+        { "name_ar": "مادة حافظة", "trade_name": "Preservative", "percentage": 0.1 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau", "percentage": 80.9 }
+      ]
+    },
+    {
+      "id": 16,
+      "name_ar": "سائل ماء الجافيل (ماء جافيل 12 درجة)",
+      "name_fr": "Eau de Javel 12°",
+      "category": "مطهرات ومنظفات حمام",
+      "description": "مبيض ومطهر شديد الفاعلية للبكتيريا والفيروسات وتنظيف الملابس البيضاء.",
+      "preparation_steps": "تخفيف مركز هيبوكلوريت الصوديوم بالماء البارد مع إضافة كربونات الصوديوم للثبات.",
+      "safety_warnings": "لا تخلط الجافيل أبداً مع حمض الهيدروكلوريك (الفلاش) أو الأمونيا تفادياً لتصاعد غاز الكلور السام!",
+      "ingredients": [
+        { "name_ar": "هيبوكلوريت الصوديوم (15%)", "trade_name": "Hypochlorite de Sodium", "percentage": 35.0 },
+        { "name_ar": "كربونات الصوديوم (مثبت)", "trade_name": "Carbonate de Soude", "percentage": 0.5 },
+        { "name_ar": "هيدروكسيد الصوديوم (لضبط pH)", "trade_name": "NaOH", "percentage": 0.2 },
+        { "name_ar": "ماء بارد ونقي", "trade_name": "Eau froide", "percentage": 64.3 }
+      ]
+    },
+    {
+      "id": 17,
+      "name_ar": "جل ماء الجافيل السميك (Javel Gel)",
+      "name_fr": "Eau de Javel Gel épais",
+      "category": "مطهرات ومنظفات حمام",
+      "description": "جافيل قوام جل يلتصق بالأدوات الصحية والمراحيض لتعقيمها وتبييضها دون هدر السائل.",
+      "preparation_steps": "إذابة خافي الرغوة وأكسيد الأمين أو SLES المخصص للكلور بالماء، ثم صب هيبوكلوريت الصوديوم مع الخفق.",
+      "safety_warnings": "استخدم خامات ومساعدات تغليظ مقاومة للكلور كـ Amine Oxide حتى لا تتفكك التركيبة.",
+      "ingredients": [
+        { "name_ar": "هيبوكلوريت الصوديوم 15%", "trade_name": "Javel concentré", "percentage": 25.0 },
+        { "name_ar": "أكسيد لاوريل الأمين (مغلظ)", "trade_name": "Lauryl Amine Oxide", "percentage": 3.5 },
+        { "name_ar": "هيدروكسيد الصوديوم", "trade_name": "NaOH", "percentage": 1.0 },
+        { "name_ar": "عطر صنوبر/ليمون ثابث للكلور", "trade_name": "Bleach Stable Parfum", "percentage": 0.2 },
+        { "name_ar": "ماء بارد", "trade_name": "Eau", "percentage": 70.3 }
+      ]
+    },
+    {
+      "id": 18,
+      "name_ar": "منظف مجاري ومفتك الانسدادات (الفلاش القلوي)",
+      "name_fr": "Déboucheur canalisations liquide",
+      "category": "مطهرات ومنظفات حمام",
+      "description": "يذيب بقايا الطعام، الدهون والشعر في مواسير الصرف الصحي بفاعلية عالية جداً.",
+      "preparation_steps": "تذاب حرارياً قشور هيدروكسيد الصوديوم في كمية الماء بحذر شديد مع تبريد المحلول الناتج.",
+      "safety_warnings": "تفاعل حراري خطير جداً! يطلق حرارة عالية. ارتد واقي الوجه كاملاً والقفازات الكيميائية.",
+      "ingredients": [
+        { "name_ar": "هيدروكسيد الصوديوم (قشور)", "trade_name": "Soude Caustique écailles", "percentage": 15.0 },
+        { "name_ar": "ميتا سيليكات الصوديوم", "trade_name": "Metasilicate de Soude", "percentage": 2.0 },
+        { "name_ar": "كحول إيثوكسيلات", "trade_name": "Surfactant Non-ionique", "percentage": 1.0 },
+        { "name_ar": "ماء بارد", "trade_name": "Eau froide", "percentage": 82.0 }
+      ]
+    },
+    {
+      "id": 19,
+      "name_ar": "منظف الأفران ومزيل الدهون المترسبة",
+      "name_fr": "Nettoyant dégraissant fours",
+      "category": "منظفات منزلية",
+      "description": "بخاخ يفتك بالشحوم المحروقة داخل الأفران الشوايات والطباخات بسهولة.",
+      "preparation_steps": "مزج المذيبات الكحولية مع الماء ثم إضافة القلويات والمذيب السطحي بحذر.",
+      "safety_warnings": "عدم الرش على الألومنيوم أو أسطح التيفال غير المقاومة للقلويات الشديدة.",
+      "ingredients": [
+        { "name_ar": "هيدروكسيد البوتاسيوم", "trade_name": "Potasse Caustique (KOH)", "percentage": 6.0 },
+        { "name_ar": "ثنائي إيثيلين جليكول مونو بوتيل إيثر", "trade_name": "BDG / Butyl Diglycol", "percentage": 5.0 },
+        { "name_ar": "نونيل فينول 9", "trade_name": "NP-9", "percentage": 3.0 },
+        { "name_ar": "تريهالوز أو صوديوم غلوكونات", "trade_name": "Sodium Gluconate", "percentage": 1.0 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau", "percentage": 85.0 }
+      ]
+    },
+    {
+      "id": 20,
+      "name_ar": "شامبو غسيل السجاد والموكيت",
+      "name_fr": "Shampooing tapis & moquettes",
+      "category": "منظفات منزلية",
+      "description": "ينتج رغوة جافة تعزل الأوساخ عن ألياف السجاد لتسهيل شفطها بدون بلل كامل.",
+      "preparation_steps": "يُضاف لوريل سلفات الصوديوم (SLS) مع المكونات الرغوية والجافة مع تقليل الماء السائل.",
+      "safety_warnings": "جفف السجاد جيدا بعد الغسيل لمنع تكون العفن أو الرطوبة.",
+      "ingredients": [
+        { "name_ar": "صوديوم لوريل سلفات (رغوة جافة)", "trade_name": "SLS / Needle", "percentage": 6.0 },
+        { "name_ar": "ثنائي صوديوم إيديتات", "trade_name": "EDTA-4Na", "percentage": 0.5 },
+        { "name_ar": "إيزوبروبانول", "trade_name": "IPA", "percentage": 3.0 },
+        { "name_ar": "عطر زهور الصباح", "trade_name": "Parfum Fleurs", "percentage": 0.3 },
+        { "name_ar": "مادة حافظة وملون", "trade_name": "Additifs", "percentage": 0.2 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 90.0 }
+      ]
+    },
+    {
+      "id": 21,
+      "name_ar": "صابون غسيل الأيدي السائل (شامبو أيدي)",
+      "name_fr": "Savon liquide pour les mains",
+      "category": "منظفات منزلية",
+      "description": "تركيبة ناعمة للغاية ومغذية للبشرة مع رغوة غنية ورائحة منعشة.",
+      "preparation_steps": "خلط SLES مع البيتاين والكمبرلان والجليسرين، ضبط الرقم الهيدروجيني pH = 5.5 - 6 (حامضي خفيف ملائم للبشرة) بإضافة حمض السيتريك.",
+      "safety_warnings": "تأكد من اختيار مادة حافظة آمنة لا تسبب تحسساً جلدياً.",
+      "ingredients": [
+        { "name_ar": "سلفات لوريث الصوديوم", "trade_name": "SLES", "percentage": 9.0 },
+        { "name_ar": "كوكاميد بروبيل بيتين", "trade_name": "Betaine", "percentage": 3.0 },
+        { "name_ar": "جليسرين طبيعي", "trade_name": "Glycerin", "percentage": 2.0 },
+        { "name_ar": "كوكاميد دي إيثانول أمين", "trade_name": "Comperlan", "percentage": 1.5 },
+        { "name_ar": "حمض الستريك (لضبط pH)", "trade_name": "Acide Citrique", "percentage": 0.1 },
+        { "name_ar": "عطر زيت اللوز/التوت", "trade_name": "Parfum", "percentage": 0.4 },
+        { "name_ar": "مادة اللؤلؤ (المصدف)", "trade_name": "Pearlizing Agent / EGDS", "percentage": 1.5 },
+        { "name_ar": "ملح الطعام ومادة حافظة", "trade_name": "NaCl & Preservative", "percentage": 1.1 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 81.4 }
+      ]
+    },
+    {
+      "id": 22,
+      "name_ar": "جل المعقم لليدين (كحول جل 70%)",
+      "name_fr": "Gel hydroalcoolique mains",
+      "category": "مطهرات ومنظفات حمام",
+      "description": "يقضي على 99.9% من الجراثيم والبكتيريا فوراً دون الحاجة للماء.",
+      "preparation_steps": "تنقيع الكاربوبول في الماء حتى ينتفخ، صب الإيثانول والجليسرين، ثم إضافة التراي إيثانول أمين (TEA) لمعادلة الجل وتكثيفه.",
+      "safety_warnings": "منتج شديد الاشتعال! يمنع اقترابه من أي مصدر ناري.",
+      "ingredients": [
+        { "name_ar": "كحول إيثيلي نقي 96%", "trade_name": "Ethanol 96%", "percentage": 73.0 },
+        { "name_ar": "كاربوبول 940 (مغلظ)", "trade_name": "Carbopol 940", "percentage": 0.4 },
+        { "name_ar": "تراي إيثانول أمين", "trade_name": "TEA", "percentage": 0.4 },
+        { "name_ar": "جليسرين", "trade_name": "Glycerin", "percentage": 1.5 },
+        { "name_ar": "عطر أو زيت لافندر", "trade_name": "Parfum", "percentage": 0.2 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau", "percentage": 24.5 }
+      ]
+    },
+    {
+      "id": 23,
+      "name_ar": "ملمع وشمع أثاث الخشب (بليدج)",
+      "name_fr": "Nourissant & Cire pour bois",
+      "category": "منظفات منزلية",
+      "description": "ينظف ويغذي أسطح الخشب ويعيد إليها المظهر الطبيعي العتيق ويحميها من التشهيب.",
+      "preparation_steps": "إذابة شمع النحل في الزيت المعدني تحت حرارة هادئة، ثم إضافة مستحلب السيليكون والماء بالتدريج عند التبريد.",
+      "safety_warnings": "احذر سخونة المزيج الشمعي عند الإذابة.",
+      "ingredients": [
+        { "name_ar": "زيت معدني خفيف (بارافين)", "trade_name": "Mineral Oil / Paraffin", "percentage": 15.0 },
+        { "name_ar": "شمع النحل الطبيعي/صناعي", "trade_name": "Beeswax", "percentage": 2.0 },
+        { "name_ar": "مستحلب سيليكون", "trade_name": "Silicone Emulsion", "percentage": 5.0 },
+        { "name_ar": "مستحلب NP-6", "trade_name": "NP-6", "percentage": 1.5 },
+        { "name_ar": "عطر العود أو البرتقال", "trade_name": "Parfum Bois", "percentage": 0.5 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 76.0 }
+      ]
+    },
+    {
+      "id": 24,
+      "name_ar": "مزيل الصدأ الشامل للحديد والمعادن",
+      "name_fr": "Rost Remover / Antirouille",
+      "category": "منظفات منزلية",
+      "description": "سائل يتفاعل مع قشور الصدأ والتأكسد ويحوله لمركب قابل للمسح أو الغسيل.",
+      "preparation_steps": "حل حمض الأوكزاليك أو الفوسفوريك في الماء مع إضافة الكحول ومخفض الشد السطحي.",
+      "safety_warnings": "استخدم أدوات بلاستيكية أو ستانلس ستيل فقط أثناء التحضير والتعبئة.",
+      "ingredients": [
+        { "name_ar": "حمض الفوسفوريك (85%)", "trade_name": "Acide Phosphorique", "percentage": 15.0 },
+        { "name_ar": "حمض الأوكزاليك (بودرة)", "trade_name": "Oxalic Acid", "percentage": 3.0 },
+        { "name_ar": "إيثانول / كحول", "trade_name": "Ethanol", "percentage": 5.0 },
+        { "name_ar": "مؤخر تأكل (Inhibitor)", "trade_name": "Inhibiteur de corrosion", "percentage": 0.5 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau", "percentage": 76.5 }
+      ]
+    },
+    {
+      "id": 25,
+      "name_ar": "شامبو بديل الفوم للسيارات (Touchless)",
+      "name_fr": "Nettoyant sans frotter (Touchless)",
+      "category": "العناية بالسيارات",
+      "description": "سائل غسيل بدون تلامس، يرش على السيارات ليفكك الطين والزيوت دون استخدام الإسفنج.",
+      "preparation_steps": "خلط ميتا سيليكات الصوديوم مع EDTA وNP-9 وحمض السلفونيك المعادال بالقلاويات.",
+      "safety_warnings": "لا تترك المنتج يتيبس على طلاء السيارة تحت أشعة الشمس المباشرة.",
+      "ingredients": [
+        { "name_ar": "ميتا سيليكات الصوديوم الخماسية", "trade_name": "Sodium Metasilicate 5aq", "percentage": 4.0 },
+        { "name_ar": "ثنائي صوديوم إيديتات (EDTA-4Na)", "trade_name": "EDTA Tetrasodium", "percentage": 3.0 },
+        { "name_ar": "هيدروكسيد البوتاسيوم (KOH)", "trade_name": "Potasse Caustique", "percentage": 2.5 },
+        { "name_ar": "نونيل فينول إيثوكسيلات (NP-9)", "trade_name": "NP-9", "percentage": 5.0 },
+        { "name_ar": "كوكو أمفودياستات", "trade_name": "Cocoamphodiacetate", "percentage": 2.0 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 83.5 }
+      ]
+    },
+    {
+      "id": 26,
+      "name_ar": "سائل ملمع ومساعد شطف الجلايات",
+      "name_fr": "Rinçage pour lave-vaisselle",
+      "category": "منظفات منزلية",
+      "description": "يساعد على تجفيف الأواني والكؤوس داخل الجلاية بسرعة دون ترك بقع الملح أو تجير.",
+      "preparation_steps": "إذابة حمض السيتريك في الماء المقطر ثم إضافة السورفكتانت منخفض الرغوة والكحول.",
+      "safety_warnings": "تأكد من استخدام خامات غير رغوية كلياً حتى لا تفيض الجلاية بالرغوة.",
+      "ingredients": [
+        { "name_ar": "سطحي غير أيوني منخفض الرغوة", "trade_name": "Low Foam Surfactant (Plurafac)", "percentage": 8.0 },
+        { "name_ar": "حمض الستريك (ملح الليمون)", "trade_name": "Acide Citrique", "percentage": 4.0 },
+        { "name_ar": "إيزوبروبانول (IPA)", "trade_name": "IPA", "percentage": 5.0 },
+        { "name_ar": "صوديوم زيلين سلفونات", "trade_name": "SXS (Hydrotope)", "percentage": 2.0 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau déminéralisée", "percentage": 81.0 }
+      ]
+    },
+    {
+      "id": 27,
+      "name_ar": "معطر الجو والجوخ السائل (بخاخ)",
+      "name_fr": "Désodorisant d'atmosphère",
+      "category": "منظفات منزلية",
+      "description": "معطر رذاذي خفيف ينشر روائح العطور الفرنسية والشرقية في الغرف والسيارات.",
+      "preparation_steps": "مزج الزيت العطري مع التوين 20 والكحول حتى الشفافية التامة، ثم إضافة الماء النقي والمادة الحافظة.",
+      "safety_warnings": "تجنب الرش المباشر تجاه الأعين أو أجهزة التكييف المفتوحة.",
+      "ingredients": [
+        { "name_ar": "زيت عطري مائي أو زيتي", "trade_name": "Parfum Premium", "percentage": 2.0 },
+        { "name_ar": "مذيب عطر (توين 20 أو NP-9)", "trade_name": "Polysorbate 20", "percentage": 3.0 },
+        { "name_ar": "كحول إيثيلي 96%", "trade_name": "Ethanol", "percentage": 10.0 },
+        { "name_ar": "مادة حافظة (DMDMH)", "trade_name": "Preservative", "percentage": 0.1 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau", "percentage": 84.9 }
+      ]
+    },
+    {
+      "id": 28,
+      "name_ar": "ملمع وتشميع هيكل السيارات (Wax Liquid)",
+      "name_fr": "Cire de protection carrosserie",
+      "category": "العناية بالسيارات",
+      "description": "يعطي طبقة حماية شمعية طاردة للماء والقطرات (Hydrophobic) تزيد من بريق الطلاء.",
+      "preparation_steps": "تذويب شمع الكارنوبا مع المستحلبات، وخفقه بالماء الساخن حتى تشكيل مستحلب حليبي ناعم.",
+      "safety_warnings": "يُدهن على جسم السيارة وهو بارد فقط وبعيداً عن أشعة الشمس.",
+      "ingredients": [
+        { "name_ar": "شمع الكارنوبا المستحلب", "trade_name": "Carnauba Wax Emulsion", "percentage": 10.0 },
+        { "name_ar": "زيت سيليكون 1000", "trade_name": "Silicone Oil 1000 cst", "percentage": 3.0 },
+        { "name_ar": "كحول دهني مستحلب", "trade_name": "Emulsifier", "percentage": 1.5 },
+        { "name_ar": "عطر كرز أو فواكه", "trade_name": "Parfum Cerise", "percentage": 0.3 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau", "percentage": 85.2 }
+      ]
+    },
+    {
+      "id": 29,
+      "name_ar": "منظف وتلميع أسطح الإستانلس ستيل",
+      "name_fr": "Nettoyant & Brillant Inox",
+      "category": "منظفات منزلية",
+      "description": "يزيل بصمات الأصابع والتكلسات عن أسطح الفولاذ المقاوم للصدأ والمطابخ الحديثة.",
+      "preparation_steps": "خلط الزيت المعدني مع المذيبات الخفيفة وعامل الاستحلاب حتى التجانس القوامي.",
+      "safety_warnings": "لا يُستخدم على الأسطح التي تلامس الأطعمة والمأكولات مباشرة بدون غسل.",
+      "ingredients": [
+        { "name_ar": "زيت برافين أبيض نقي", "trade_name": "White Paraffin Oil", "percentage": 25.0 },
+        { "name_ar": "مذيب هيدروكربوني خفيف (D40)", "trade_name": "Solvent D40", "percentage": 10.0 },
+        { "name_ar": "سوربيتان مونو أوليات", "trade_name": "Span 80", "percentage": 2.0 },
+        { "name_ar": "عطر ليمون خفيف", "trade_name": "Parfum Citron", "percentage": 0.3 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 62.7 }
+      ]
+    },
+    {
+      "id": 30,
+      "name_ar": "معجون تنظيف الأواني والمعادن (عملاق الصحون)",
+      "name_fr": "Pâte nettoyante pour vaisselle",
+      "category": "منظفات منزلية",
+      "description": "معجون متماسك واقتصادي جداً لغسيل الأواني والمقالي ورغوة وفيرة مع قوة كشط صحية.",
+      "preparation_steps": "عجن كربونات الصوديوم وبودرة الكاولين أو التلك مع حمض السلفونيك والصودا الكاوية حتى تشكل معجون متماسك القوام.",
+      "safety_warnings": "احرص على ارتدت الأقنعة الواقية من الغبار أثناء خلط البودرة الجافة.",
+      "ingredients": [
+        { "name_ar": "حمض السلفونيك", "trade_name": "LABSA", "percentage": 10.0 },
+        { "name_ar": "هيدروكسيد الصوديوم", "trade_name": "NaOH", "percentage": 1.3 },
+        { "name_ar": "كربونات الصوديوم (بودرة)", "trade_name": "Soda Ash", "percentage": 15.0 },
+        { "name_ar": "بودرة التلك أو الكاولين", "trade_name": "Talc / Kaolin", "percentage": 25.0 },
+        { "name_ar": "سيليكات الصوديوم (معدل قوام)", "trade_name": "Sodium Silicate", "percentage": 8.0 },
+        { "name_ar": "عطر ليمون زيتوني وملون", "trade_name": "Parfum & Colorant", "percentage": 0.5 },
+        { "name_ar": "ماء", "trade_name": "Eau", "percentage": 40.2 }
+      ]
+    },
+    {
+      "id": 31,
+      "name_ar": "مظهّر ومعقم المنسوجات والأثاث (ديتول رشاش)",
+      "name_fr": "Spray désinfectant textiles & surfaces",
+      "category": "العناية بالأنسجة",
+      "description": "بخاخ معقم سريع الجفاف للأسطح والكنب والمقابض يقضي على الجراثيم والروائح الكريهة.",
+      "preparation_steps": "خلط الإيثانول مع النيباسين أو البنزالكونيوم كلورايد والماء والعطر لتصفية السائل.",
+      "safety_warnings": "يُحفظ بعيداً عن ألسنة اللهب أو مصادر الاشتعال أثناء الرش.",
+      "ingredients": [
+        { "name_ar": "كحول إيثيلي 96%", "trade_name": "Ethanol 96%", "percentage": 65.0 },
+        { "name_ar": "بنزالكونيوم كلورايد (BKC 80%)", "trade_name": "Benzalkonium Chloride", "percentage": 0.5 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 1.0 },
+        { "name_ar": "عطر ياسمين أو لافندر", "trade_name": "Parfum", "percentage": 0.3 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau", "percentage": 33.2 }
+      ]
+    },
+    {
+      "id": 32,
+      "name_ar": "مزيل الحبر والبقع العضوية من الجلد والأقمشة",
+      "name_fr": "Détachant encre & taches organiques",
+      "category": "العناية بالأنسجة",
+      "description": "سائل سريع الفاعلية لإزالة بقع أقلام الجاف والحبر والشمع عن الجلد الطبيعي والملابس.",
+      "preparation_steps": "ملمس المذيبات العضوية الخفيفة مثل إيثيل أسيتات وIPA وبوتيل جليكول وحفظه في عبوات محكمة الإغلاق.",
+      "safety_warnings": "سريع التبخر والاستنشاق، يرجى الاستخدام في أماكن جيدة التهوية.",
+      "ingredients": [
+        { "name_ar": "كحول إيزوبروبيل (IPA)", "trade_name": "Isopropanol", "percentage": 40.0 },
+        { "name_ar": "إيثيلين جليكول مونو بوتيل إيثر", "trade_name": "Butyl Glycol", "percentage": 25.0 },
+        { "name_ar": "إيثيل أسيتات", "trade_name": "Ethyl Acetate", "percentage": 10.0 },
+        { "name_ar": "جليسرين (لحماية الجلد)", "trade_name": "Glycerin", "percentage": 3.0 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau", "percentage": 22.0 }
+      ]
+    }
+  ]
+}
+{
+  "formulas": [
+    {
+      "id": 101,
+      "name_ar": "شامبو السيارات (Car Shampoo)",
+      "name_fr": "Shampooing pour voiture",
+      "category": "العناية بالسيارات",
+      "description": "شامبو عالي الجودة لإزالة الأوساخ والدهون مع الحفاظ على طلاء السيارة ومنحه لمعاناً ممتازاً.",
+      "preparation_steps": "1. قم بإذابة Texapon N70 في الماء المقطر تدريجياً مع التحريك المعتدل حتى الذوبان الكامل.\n2. أضف CDE تدريجياً لزيادة القوام والرغوة.\n3. أذب حمض الستريك في قليل من الماء وأضفه للخليط واضبط الـ pH بين 6.5 و 7.0.\n4. أضف البروبيلين جليكول، المادة الحافظة، والعطر واللون مع الخلط الجيد.\n* ملاحظة للتركيبة الاقتصادية: استخدم (Texapon 6%, CDE 1.5%, PG 1%, Citric Acid 0.3%, Sorbate 0.1%, Eau 91.1%).",
+      "safety_warnings": "تجنب ملامسة المكونات المركزة للعينين. تجنب الرش المباشر على الأسطح الساخنة.",
+      "ingredients": [
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 8.0 },
+        { "name_ar": "كمبرلان CDE", "trade_name": "Coco Diethanolamide", "percentage": 2.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 2.0 },
+        { "name_ar": "حمض الستريك", "trade_name": "Acide Citrique", "percentage": 0.5 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.2 },
+        { "name_ar": "عطر سيارات + ملون", "trade_name": "Parfum & Colorant", "percentage": 0.5 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 86.8 }
+      ]
+    },
+    {
+      "id": 102,
+      "name_ar": "منظف زجاج السيارات (Glass Cleaner)",
+      "name_fr": "Nettoyant vitres voiture",
+      "category": "العناية بالسيارات",
+      "description": "منظف زجاج يزيل الزيوت والأبخرة بسرعة وبدون إبقاء أي آثار أو خطوط، مع لمعان فائق.",
+      "preparation_steps": "1. اخلط كحول الإيزوبروبانول Isopropanol مع الماء المقطر.\n2. أضف Texapon N70 ببطء وحرك حتى تمام الذوبان.\n3. أذّب حمض الستريك بماء وأضفه لضبط pH بين 6.5 و 7.0.\n4. أضف Propylene Glycol والمادة الحافظة والصبغة الزرقاء ثم عبّئ في بخاخات.\n* ملاحظة للتركيبة الاقتصادية: استخدم (IPA 5%, PG 3%, Texapon 1%, Citric 0.2%, Sorbate 0.1%, Eau 90.7%).",
+      "safety_warnings": "يحوي كحول Isopropanol؛ يمنع استخدامه قرب مصادر النار أو السجائر.",
+      "ingredients": [
+        { "name_ar": "كحول إيزوبروبانول", "trade_name": "Isopropanol (IPA)", "percentage": 10.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 5.0 },
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 2.0 },
+        { "name_ar": "حمض الستريك", "trade_name": "Acide Citrique", "percentage": 0.3 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.2 },
+        { "name_ar": "ماء مقطر + صبغة زرقاء", "trade_name": "Eau Distillée", "percentage": 82.5 }
+      ]
+    },
+    {
+      "id": 103,
+      "name_ar": "ملمع لوحة القيادة (Dashboard Polish)",
+      "name_fr": "Rénovateur Tableau de Bord",
+      "category": "العناية بالسيارات",
+      "description": "ملمع ومجدد لأسطح التابلوه والبلاستيك يحمي من الجفاف والتشقق ويعطي مظهراً حريرياً.",
+      "preparation_steps": "1. امزج Propylene Glycol مع Cetiol C5 حتى التجانس.\n2. أضف Isopropanol تدريجياً مع التقليب.\n3. أضف الجلسرين واخلطه جيداً.\n4. أذب سوربات البوتاسيوم بالماء المقطر ثم أضفه للخليط واتركه يرتاح 24 ساعة قبل التعبئة.\n* خيار اقتصادي/مطور: يمكن تقليل Cetiol C5 إلى 3% وإضافة 3% - 5% زيت سيليكون (Huile de Silicone) لزيادة اللمعان.",
+      "safety_warnings": "احفظ المنتج بعيداً عن أسطح المقود ودواسات الفرامل تجنباً للانزلاق.",
+      "ingredients": [
+        { "name_ar": "سيتيل C5", "trade_name": "Cetiol C5", "percentage": 10.0 },
+        { "name_ar": "كحول إيزوبروبانول", "trade_name": "Isopropanol", "percentage": 7.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 5.0 },
+        { "name_ar": "جلسرين نباتي", "trade_name": "Glycérine", "percentage": 3.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.5 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 74.5 }
+      ]
+    },
+    {
+      "id": 104,
+      "name_ar": "مزيل زيوت وشحوم المحرك (Engine Degreaser)",
+      "name_fr": "Dégraissant Moteur",
+      "category": "العناية بالسيارات",
+      "description": "منظف قوي ومزيل للشحوم المستعصية والزيوت المتراكمة على المحركات والأجزاء الميكانيكية.",
+      "preparation_steps": "1. أذب Texapon N70 في الماء المقطر تماماً.\n2. أضف Butyl Glycol المزيل للشحوم ببطء مع التحريك مستمر.\n3. أضف Cetiol C5 و Propylene Glycol واخلط للحصول على مزيج متجانس.\n4. أضف المادة الحافظة وعيّئ في عبوات رش محكمة متوافقة مع المواد الكيميائية.\n* خيار اقتصادي: قلل Cetiol C5 إلى 1% واستبدل الفارق بزيادة طفيفة في Texapon أو Propylene Glycol.",
+      "safety_warnings": "استخدم قفازات ونظارات واقية أثناء التحضير والاستخدام. تجنب رش الأجزاء الكهربائية الحساسة.",
+      "ingredients": [
+        { "name_ar": "بوتيل جليكول", "trade_name": "Butyl Glycol", "percentage": 10.0 },
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 8.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 5.0 },
+        { "name_ar": "سيتيل C5", "trade_name": "Cetiol C5", "percentage": 3.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.2 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 73.8 }
+      ]
+    },
+    {
+      "id": 105,
+      "name_ar": "رغوة تنظيف السيارات (La Mousse Snow Foam)",
+      "name_fr": "Mousse Nettoyante (Snow Foam)",
+      "category": "العناية بالسيارات",
+      "description": "منظف الرغوة الثلجية الكثيفة (Snow Foam) المخصص لمسدسات الرغوة والمغاسل الأوتوماتيكية.",
+      "preparation_steps": "1. أذّب Texapon N70 في كمية من الماء المقطر.\n2. أضف CDE بالتدريج للحصول على قوام سميك ورغوة ثقيلة.\n3. أضف البروبيلين جليكول وحمض الستريك لمعادلة pH.\n4. أضف العطر والملون والمادة الحافظة، ثم خفف بباقي كمية الماء المقطر.",
+      "safety_warnings": "يحفظ بعيداً عن متناول الأطفال. يراعى غسل السيارة بالماء جيدا بعد الرش.",
+      "ingredients": [
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 10.0 },
+        { "name_ar": "كمبرلان CDE", "trade_name": "Coco Diethanolamide", "percentage": 3.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 2.0 },
+        { "name_ar": "حمض الستريك", "trade_name": "Acide Citrique", "percentage": 0.5 },
+        { "name_ar": "عطر وملون", "trade_name": "Parfum & Colorant", "percentage": 0.4 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.2 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 83.9 }
+      ]
+    },
+    {
+      "id": 106,
+      "name_ar": "سائل مبرد وحماية المحرك (Coolant / Antifreeze)",
+      "name_fr": "Liquide de Refroidissement",
+      "category": "العناية بالسيارات",
+      "description": "سائل تبريد المحرك المضاد للتجمد والغليان والمزود بمانع تآكل الصدأ للرادياتير.",
+      "preparation_steps": "1. اخلط Mono Ethylene Glycol (MEG) مع الماء المقطر في وعاء نظيف جداً.\n2. أضف مانع التآكل (Inhibiteur de Corrosion) مع التقليب حتى الذوبان.\n3. أضف مانع الرغوة (Anti-Foaming Agent) والصبغة الملونة الخاصة (أخضر/وردي).\n4. عبّئ في عبوات بلاستيكية مقاومة للمواد الكيميائية.",
+      "safety_warnings": "مادة Mono Ethylene Glycol سامة جداً عند الإبتلاع! احفظها بعيداً عن الأطفال والحيوانات.",
+      "ingredients": [
+        { "name_ar": "مونو إيثيلين جليكول", "trade_name": "Mono Ethylene Glycol (MEG)", "percentage": 50.0 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 48.0 },
+        { "name_ar": "مانع التآكل والصدأ", "trade_name": "Inhibiteur de Corrosion", "percentage": 1.5 },
+        { "name_ar": "مضاد الرغوة", "trade_name": "Anti-Foaming Agent", "percentage": 0.3 },
+        { "name_ar": "صبغة ملونة", "trade_name": "Colorant", "percentage": 0.2 }
+      ]
+    },
+    {
+      "id": 107,
+      "name_ar": "مزيل الضباب عن الزجاج الداخلي (Anti-Fog Glass)",
+      "name_fr": "Anti-Buée Vitres Intérieures",
+      "category": "العناية بالسيارات",
+      "description": "سائل يمنع تشكل الرطوبة والضباب على الزجاج الداخلي للسيارات أثناء الشتاء.",
+      "preparation_steps": "1. اخلط كحول الإيزوبروبانول Isopropanol مع الماء المقطر.\n2. أضف البروبيلين جليكول Propylene Glycol بالتدريج للحد من تكثف بخار الماء.\n3. أضف سوربات البوتاسيوم والصبغة مع التقليب الجيد ثم عبّئ بالبخاخ.",
+      "safety_warnings": "استخدمه في مكان جيد التهوية. قابل للاشتعال لاحتوائه على الكحول.",
+      "ingredients": [
+        { "name_ar": "كحول إيزوبروبانول", "trade_name": "Isopropanol (IPA)", "percentage": 20.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 5.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.5 },
+        { "name_ar": "ماء مقطر + ملون", "trade_name": "Eau Distillée", "percentage": 74.5 }
+      ]
+    },
+    {
+      "id": 108,
+      "name_ar": "معطر السيارات السائل (Car Air Freshener)",
+      "name_fr": "Parfum & Déodorant Voiture",
+      "category": "العناية بالسيارات",
+      "description": "بخاخ معطر للجو والأنسجة داخل السيارة يثبت الرائحة لفترة طويلة.",
+      "preparation_steps": "1. امزج Propylene Glycol مع الزيت العطري المركز جيداً حتى الذوبان الكلي.\n2. أضف الماء المقطر بالتدريج مع التقليب الميكانيكي المستمر.\n3. أضف المادة الحافظة سوربات البوتاسيوم ثم عبّئ المنتج في بخاخات صغيرة.",
+      "safety_warnings": "تجنب الرش المباشر على شاشات الملاحة والأسطح البلاستيكية المطبوعة.",
+      "ingredients": [
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 10.0 },
+        { "name_ar": "زيت عطري مركز", "trade_name": "Huile Parfumée", "percentage": 5.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.5 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 84.5 }
+      ]
+    },
+    {
+      "id": 109,
+      "name_ar": "سائل مساحات الزجاج (Windshield Washer)",
+      "name_fr": "Lave-Glace Auto",
+      "category": "العناية بالسيارات",
+      "description": "سائل لخزان مساحات السيارات يزيل الحشرات والرواسب ويمنع انسداد الرشاشات.",
+      "preparation_steps": "1. اخلط الماء المقطر مع كحول Isopropanol ببطء.\n2. أضف Texapon N70 وحرك ببطء لمنع تكون الرغوة الزائدة.\n3. أضف Propylene Glycol والمادة الحافظة العطر واللون المفضل.",
+      "safety_warnings": "احرص على استخدام ماء مقطر حتماً لمنع انسداد أنابيب الرش بالترسبات الكلسية.",
+      "ingredients": [
+        { "name_ar": "كحول إيزوبروبانول", "trade_name": "Isopropanol", "percentage": 20.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 5.0 },
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 1.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.2 },
+        { "name_ar": "عطر وملون", "trade_name": "Parfum & Colorant", "percentage": 0.3 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 73.5 }
+      ]
+    },
+    {
+      "id": 110,
+      "name_ar": "منظف ومجدد عجلات السيارات (Wheel & Tire Cleaner)",
+      "name_fr": "Nettoyant Jantes et Pneus",
+      "category": "العناية بالسيارات",
+      "description": "مستحضر لتنظيف جنوط وعجلات السيارات من غبار الفرامل والسخام وإعادة اللون الأسود للإطارات.",
+      "preparation_steps": "1. أذب Texapon N70 في 20% من كمية الماء المقطر.\n2. أضف Propylene Glycol و CDE بالتدريج وحرك حتى الحصول على مزيج خالي من التكتلات.\n3. أذب حمض الستريك في ماء وأضفه للخليط.\n4. أضف سوربات البوتاسيوم وباقي كمية الماء وحرك المزيج جيداً.",
+      "safety_warnings": "ينصح بارتداء قفازات أثناء الاستخدام لتجنب جفاف الجلد.",
+      "ingredients": [
+        { "name_ar": "تكسابون N70", "trade_name": "Texapon N70", "percentage": 7.0 },
+        { "name_ar": "كمبرلان CDE", "trade_name": "Coco Diethanolamide", "percentage": 5.0 },
+        { "name_ar": "بروبيلين جليكول", "trade_name": "Propylene Glycol", "percentage": 3.0 },
+        { "name_ar": "حمض الستريك", "trade_name": "Acide Citrique", "percentage": 1.0 },
+        { "name_ar": "سوربات البوتاسيوم", "trade_name": "Sorbate de Potassium", "percentage": 0.3 },
+        { "name_ar": "ماء مقطر", "trade_name": "Eau Distillée", "percentage": 83.7 }
+      ]
+    }
+  ]
+}
